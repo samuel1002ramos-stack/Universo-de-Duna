@@ -1,0 +1,22 @@
+
+/*
+mb-1 = distacia para o topo
+
+col-lg-1 = tamanho da coisa
+
+text-start 
+ text-align: left !important;
+
+text-end 
+ text-align: right !important;
+
+text-center 
+ text-align: center !important;
+
+ Efeito hover (opcional) 
+.features-item:hover {
+  transform: translate(-10px, -10px) scale(1.05);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+
+*/
